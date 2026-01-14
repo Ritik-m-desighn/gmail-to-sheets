@@ -1,5 +1,7 @@
 # Gmail to Google Sheets Automation
 
+GITHUB-REPO +"(https://github.com/Ritik-m-desighn/gmail-to-sheets.git)"
+  
 ## Overview
 This Python-based system automates the process of fetching unread emails from Gmail and logging them into a Google Sheet. [cite_start]It uses OAuth 2.0 for secure access and maintains state to prevent duplicate entries [cite: 1-6].
 
