@@ -1,0 +1,9 @@
+# Credentials and Tokens [cite: 55-61]
+credentials/credentials.json
+token.json
+processed_ids.json
+
+# Python artifacts
+__pycache__/
+venv/
+.env
